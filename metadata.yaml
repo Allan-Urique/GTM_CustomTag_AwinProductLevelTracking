@@ -2,5 +2,5 @@ homepage: "https://www.awin.com"
 documentation: "https://www.awin.com"
 versions:
 # Latest version
-  - sha: c9cb9401825f308af8d7f932823310e1215ac44a
+  - sha: 865bc9a14b4bc453160d7c0fa1f68a0ddf873d16
     changeNotes: Initial release.
