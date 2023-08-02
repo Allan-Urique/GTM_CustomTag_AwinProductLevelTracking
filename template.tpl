@@ -279,7 +279,7 @@ if (typeof transactionProducts == "object") {
     productSku + "|" +
     productCommissionGroup + "|" +
     productCategory;
-    appendPixel("https://www.awin1.com/basket.php?product_line=" + encodeUri(plt));
+    appendPixel("https://www.awin1.com/basket.php?product_line=" + encodeUriComponent(plt));
   }
 
 }
